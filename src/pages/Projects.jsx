@@ -27,9 +27,9 @@ const Projects = () => {
       animate={{ y: 0 }}
       transition={{ type: "spring", duration: 1, bounce: "0.2" }}
     >
-      {projectHighlights.map((project) => (
+      {projectHighlights.map((project, key) => (
         <Box
-          key={project.id}
+          key={key}
           p="5"
           boxShadow="lg"
           w="100%"

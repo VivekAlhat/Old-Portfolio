@@ -1,6 +1,5 @@
 export const projectHighlights = [
   {
-    id: 1,
     name: "Movieplex",
     description:
       "Movieplex is full stack web application built using React & Node Js. It helps users to create watchlist and maintain a list of favorite.movies directly inside the browser. You don't have to create an account to manage your lists. The application uses Redux to maintain the overall state. You can search from wide range of movie database. Users can filter and sort movies by popularity, release date etc.",
@@ -9,7 +8,6 @@ export const projectHighlights = [
     tags: ["React", "Node", "Redux", "Material UI", "TMDB API"],
   },
   {
-    id: 2,
     name: "Jot",
     description:
       "Jot is a simple note taking service built using React and Firebase. Jot makes it easy for you to manage notes at a single place. Users can sign in directly with the Google account and start using the application. Jot uses React Quill text editor for taking notes.",
@@ -18,7 +16,6 @@ export const projectHighlights = [
     tags: ["React", "Firebase"],
   },
   {
-    id: 3,
     name: "React Parcel Boilerplate",
     description:
       "A lightweight react boilerplate configured with Babel, Prettier, ES lint and Parcel.",
@@ -27,7 +24,6 @@ export const projectHighlights = [
     tags: ["React", "Babel", "Parcel", "Boilerplate"],
   },
   {
-    id: 4,
     name: "Animetalks",
     description:
       "Animetalks is slack-like group chat application for anime fans. Animetalks is built using React and Firebase as a backend and hosting platform.",
@@ -36,7 +32,6 @@ export const projectHighlights = [
     tags: ["React", "Firebase"],
   },
   {
-    id: 5,
     name: "Koda",
     description: "E-Store created with react and zustand for state management",
     github: "https://github.com/VivekAlhat/Koda",
@@ -44,7 +39,6 @@ export const projectHighlights = [
     tags: ["React", "Zustand", "Fake Store API"],
   },
   {
-    id: 6,
     name: "Recipe API",
     description: "Recipe REST API implemented using Node and MongoDB.",
     github: "https://github.com/VivekAlhat/HacktoberFest-Recipe-API",
@@ -52,7 +46,6 @@ export const projectHighlights = [
     tags: ["Node", "MongoDB", "Hacktoberfest"],
   },
   {
-    id: 7,
     name: "Quotes",
     description: "NPM package to get random quotes",
     github: "https://github.com/VivekAlhat/Quotes",
@@ -60,16 +53,6 @@ export const projectHighlights = [
     tags: ["Node", "NPM"],
   },
   {
-    id: 8,
-    name: "Animedoro",
-    description:
-      "Electron based desktop application. Animedoro is a pomodoro like timer and a productivity tool.",
-    github: "https://github.com/VivekAlhat/Animedoro",
-    live: null,
-    tags: ["JavaScript", "Electron"],
-  },
-  {
-    id: 9,
     name: "Insure",
     description: "Insure landing page design",
     github: "https://github.com/VivekAlhat/Insure",
@@ -77,7 +60,6 @@ export const projectHighlights = [
     tags: ["Design"],
   },
   {
-    id: 10,
     name: "Sunnyside Agency",
     description: "Sunnyside agency landing page design",
     github: "https://github.com/VivekAlhat/Sunnyside-Agency-Landing-Page",
@@ -85,7 +67,6 @@ export const projectHighlights = [
     tags: ["Design"],
   },
   {
-    id: 11,
     name: "Git Colorizer",
     description:
       "Git Colorizer is a Chrome extension to change color of github graph, activity overview and progress bar. Currently only single color theme is available, you can modify the colors in source code and use it as you like.",
@@ -94,7 +75,6 @@ export const projectHighlights = [
     tags: ["JavaScript", "Chrome Extension"],
   },
   {
-    id: 12,
     name: "Markdown Previewer",
     description: "React app to see realtime markdown preview.",
     github: "https://github.com/VivekAlhat/markdown-preview",
@@ -102,7 +82,6 @@ export const projectHighlights = [
     tags: ["React"],
   },
   {
-    id: 13,
     name: "Blog",
     description:
       "A simple blog application created using Node, Express,MongoDB & EJS",
@@ -111,7 +90,6 @@ export const projectHighlights = [
     tags: ["Node", "Express", "EJS", "MongoDB"],
   },
   {
-    id: 14,
     name: "The Simon Game",
     description: "Vanilla JS implementation of 80s famous memory game.",
     github: "https://github.com/VivekAlhat/The-Simon-Game",
@@ -119,7 +97,6 @@ export const projectHighlights = [
     tags: ["JavaScript"],
   },
   {
-    id: 15,
     name: "Rock Paper Scissors",
     description: "JQuery implementation of Rock-Paper-Scissors game.",
     github: "https://github.com/VivekAlhat/Rock-Paper-Scissor",
@@ -127,7 +104,6 @@ export const projectHighlights = [
     tags: ["JavaScript", "JQuery"],
   },
   {
-    id: 16,
     name: "Base Apparael",
     description: "Base Apparel landing page design",
     github: "https://github.com/VivekAlhat/Base-Apparel",
@@ -135,27 +111,10 @@ export const projectHighlights = [
     tags: ["Design"],
   },
   {
-    id: 17,
     name: "Huddle Community",
     description: "Huddle community landing page design",
     github: "https://github.com/VivekAlhat/Huddle-Community",
     live: "http://huddle-community-one.vercel.app/",
     tags: ["Design"],
-  },
-  {
-    id: 18,
-    name: "Drumkit",
-    description: "JQuery implementation of drumkit.",
-    github: "https://github.com/VivekAlhat/DrumKit",
-    live: "https://drum-kit-virid.vercel.app/",
-    tags: ["JavaScript", "JQuery"],
-  },
-  {
-    id: 19,
-    name: "Git Profile Card",
-    description: "Web app to create your Github profile card",
-    github: "https://github.com/VivekAlhat/git-profile-card",
-    live: "https://dreamy-bhaskara-b32eab.netlify.app/",
-    tags: ["React", "Github API"],
   },
 ];
