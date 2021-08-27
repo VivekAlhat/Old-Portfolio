@@ -1,5 +1,13 @@
 export const projectHighlights = [
   {
+    name: "Mixr",
+    description:
+      "Mixr is an abbreviation of/for Mixer. Mixr is a React and Firebase powered simple social media application. Users can sign up in just few steps and start using the application. You can create a new post, manage your Mixr profile, and connect with people. Everything at one place.",
+    github: "https://github.com/VivekAlhat/Mixr",
+    live: "https://mixr-7d872.web.app/",
+    tags: ["React", "Firebase", "Context API", "Chakra UI", "Framer Motion"],
+  },
+  {
     name: "Movieplex",
     description:
       "Movieplex is full stack web application built using React & Node Js. It helps users to create watchlist and maintain a list of favorite.movies directly inside the browser. You don't have to create an account to manage your lists. The application uses Redux to maintain the overall state. You can search from wide range of movie database. Users can filter and sort movies by popularity, release date etc.",
