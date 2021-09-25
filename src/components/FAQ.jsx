@@ -29,8 +29,8 @@ const FAQ = () => {
             </AccordionButton>
           </h2>
           <AccordionPanel pb={4}>
-            I am reading <Text as="b">Inner Engineering</Text> by Sadhguru. My
-            next read is <Text as="em">Disneyland of gods</Text>.
+            I am currently reading{" "}
+            <Text as="b">The 7 Habits Of Highly Effective People</Text>
           </AccordionPanel>
         </AccordionItem>
 
