@@ -61,20 +61,6 @@ export const projectHighlights = [
     tags: ["Node", "NPM"],
   },
   {
-    name: "Insure",
-    description: "Insure landing page design",
-    github: "https://github.com/VivekAlhat/Insure",
-    live: null,
-    tags: ["Design"],
-  },
-  {
-    name: "Sunnyside Agency",
-    description: "Sunnyside agency landing page design",
-    github: "https://github.com/VivekAlhat/Sunnyside-Agency-Landing-Page",
-    live: null,
-    tags: ["Design"],
-  },
-  {
     name: "Git Colorizer",
     description:
       "Git Colorizer is a Chrome extension to change color of github graph, activity overview and progress bar. Currently only single color theme is available, you can modify the colors in source code and use it as you like.",
@@ -83,46 +69,10 @@ export const projectHighlights = [
     tags: ["JavaScript", "Chrome Extension"],
   },
   {
-    name: "Markdown Previewer",
-    description: "React app to see realtime markdown preview.",
-    github: "https://github.com/VivekAlhat/markdown-preview",
-    live: "https://happy-booth-ee7058.netlify.app/",
-    tags: ["React"],
-  },
-  {
-    name: "Blog",
-    description:
-      "A simple blog application created using Node, Express,MongoDB & EJS",
-    github: "https://github.com/VivekAlhat/blog",
-    live: "https://morning-brushlands-63042.herokuapp.com/",
-    tags: ["Node", "Express", "EJS", "MongoDB"],
-  },
-  {
     name: "The Simon Game",
     description: "Vanilla JS implementation of 80s famous memory game.",
     github: "https://github.com/VivekAlhat/The-Simon-Game",
     live: "https://the-simon-game.vercel.app/",
     tags: ["JavaScript"],
-  },
-  {
-    name: "Rock Paper Scissors",
-    description: "JQuery implementation of Rock-Paper-Scissors game.",
-    github: "https://github.com/VivekAlhat/Rock-Paper-Scissor",
-    live: "https://rock-paper-scissor-gold.vercel.app/",
-    tags: ["JavaScript", "JQuery"],
-  },
-  {
-    name: "Base Apparael",
-    description: "Base Apparel landing page design",
-    github: "https://github.com/VivekAlhat/Base-Apparel",
-    live: "http://base-apparel-six.vercel.app/",
-    tags: ["Design"],
-  },
-  {
-    name: "Huddle Community",
-    description: "Huddle community landing page design",
-    github: "https://github.com/VivekAlhat/Huddle-Community",
-    live: "http://huddle-community-one.vercel.app/",
-    tags: ["Design"],
   },
 ];

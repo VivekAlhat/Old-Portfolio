@@ -30,7 +30,13 @@ const FAQ = () => {
           </h2>
           <AccordionPanel pb={4}>
             I am currently reading{" "}
-            <Text as="b">The 7 Habits Of Highly Effective People</Text>
+            <Link
+              href="https://www.goodreads.com/book/show/6732019-rework"
+              isExternal
+            >
+              <Text as="b">Rework</Text>
+            </Link>
+            .
           </AccordionPanel>
         </AccordionItem>
 
@@ -60,10 +66,14 @@ const FAQ = () => {
             </AccordionButton>
           </h2>
           <AccordionPanel pb={4}>
-            I have a dual booted system installed with Windows 10 and Manjaro
-            Linux. I use Windows only for gaming. Most of the time I use my
-            Linux system for coding and other works. I have always been a Linux
-            fanboy. I started with Ubuntu then later switched to Manjaro.
+            I have a dual booted system installed with Windows 10 and{" "}
+            <Link href="https://endeavouros.com/" isExternal>
+              Endeavour OS
+            </Link>
+            . I use Windows only for gaming. Most of the time I use my Linux
+            system for coding and other works. I have always been a Linux
+            fanboy. I started with Ubuntu then later switched to Manjaro and now
+            using Endeavour OS.
             <Text>
               Check my system config here.
               <Link

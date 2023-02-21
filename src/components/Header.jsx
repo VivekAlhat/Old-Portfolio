@@ -48,9 +48,10 @@ const Header = () => {
           color={isDark ? "gray.200" : "gray.500"}
           fontSize={notSmallerScreen ? "2xl" : "md"}
         >
-          This is my <Text as="u">digital space</Text> where I showcase the
-          stuff I am working on. I write <Text as="b">Web Dev</Text> articles
-          and occasionally about other interesting stuff.
+          This is my <Text as="u">digital space</Text> where I showcase stuff
+          that I am working on. I write articles on
+          <Text as="b">&nbsp;web development</Text> and occasionally on other
+          interesting stuff.
         </Text>
         <Button
           m="1rem 0"

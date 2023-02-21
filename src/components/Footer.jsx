@@ -23,7 +23,7 @@ const Footer = () => {
       <Social />
       <Spacer />
       <Text fontWeight="semibold" color={isDark ? "gray.300" : "gray.500"}>
-        @ 2021 Vivek Alhat
+        @ {new Date().getFullYear()} Vivek Alhat
       </Text>
     </Flex>
   );
