@@ -29,7 +29,7 @@ const Project = () => {
             (project, index) =>
               index < 3 && (
                 <Box
-                  key={project.id}
+                  key={index}
                   shadow="lg"
                   w="100%"
                   borderRadius="lg"

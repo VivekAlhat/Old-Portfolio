@@ -16,6 +16,7 @@ const Footer = () => {
   return (
     <Flex
       w="100%"
+      pt="3"
       pb="3"
       direction={notSmallerScreen ? "row" : "column"}
       alignItems="center"

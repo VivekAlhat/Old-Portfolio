@@ -11,7 +11,7 @@ function App() {
   const [notSmallerScreen] = useMediaQuery("(min-width:600px)");
 
   return (
-    <VStack p={notSmallerScreen ? "5" : "1rem 0.5rem"}>
+    <VStack p={notSmallerScreen ? "5" : "1rem 0.5rem"} h="max-content">
       <Navbar />
       <Divider p="3px 0" />
       <>

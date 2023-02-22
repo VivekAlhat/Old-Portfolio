@@ -4,7 +4,7 @@ const Error = () => {
     <Box p="5">
       <Image src="/assets/server_down.svg" alt="Server Down" w="md" h="sm" />
       <Text fontSize="md" textAlign="center" fontWeight="semibold">
-        API server down? Try after sometime...
+        API server down? Try after some time...
       </Text>
     </Box>
   );

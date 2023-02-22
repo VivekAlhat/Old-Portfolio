@@ -6,10 +6,10 @@ const Error = () => {
         src="/assets/page_not_found.svg"
         alt="Page Not Found"
         w="md"
-        h="xs"
+        h="md"
       />
       <Text fontSize="md" textAlign="center" fontWeight="semibold">
-        Uh! This path does not exist.
+        This path does not exist.
       </Text>
       <Text fontSize="lg" textAlign="center" fontWeight="semibold" mt="2">
         Maybe try taking a different route?
